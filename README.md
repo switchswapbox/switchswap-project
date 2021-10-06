@@ -35,7 +35,7 @@ Our primary products are:
 - **IPFS Pinning Service:** Crust Network
 - **Database:** smart contract on Polygon
 - **Smart Contract Stack:** Solidity, Hardhat, ethers.js
-- **Micro Service:** NodeJS, Heroku, MongoDB as a service (the server sometimes is required to process centralized tasks such as faucet $CRU, retrieving CID periodically to spread important files into the IPFS network, etc...)
+- **Micro Service:** NodeJS, Heroku, MongoDB as a service (the server sometimes is required to process centralized tasks such as faucet $MATIC/$CRU, retrieving CID periodically to spread important files into the IPFS network, etc...)
 - **Designing Style:** Material, Flat
 
 ## **NFT collections**
